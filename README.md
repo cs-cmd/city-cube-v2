@@ -16,7 +16,7 @@ and manipulating database contents, is also provided.
 
 ## Tools
 
-This app uses severalframeworks/libraries to showcase their capabilities in a small-scale environment:
+This app uses several frameworks/libraries to showcase their capabilities in a small-scale environment:
 
 Front end:
 - [React](https://react.dev/) (front-end UI)
