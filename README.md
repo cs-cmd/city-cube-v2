@@ -27,5 +27,5 @@ Front end:
 Back end:
 - [Express](https://expressjs.com/) (API)
 - [Turso/libSQL](https://turso.tech/) (lightweight relation database built on SQLite)
-
+- [EJS](https://ejs.co/) (templating)
 While this app could have been made with a minimal or less-complex set of libraries, it was an exercise in experimentation for the developer.
