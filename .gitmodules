@@ -1,0 +1,6 @@
+[submodule "city-cube-frontend"]
+	path = city-cube-frontend
+	url = git@github.com:cs-cmd/city-cube-frontend
+[submodule "city-cube-backend"]
+	path = city-cube-backend
+	url = git@github.com:cs-cmd/city-cube-backend
